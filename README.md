@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Overkill
 
-You can use the [editor on GitHub](https://github.com/Examen-Libres/Examen-B1/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Obetivo del Proyecto
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* El proyecto Overkill busca desarrollar el mejor juego de supervivencia multijugador y multiplataforma
 
-### Markdown
+## Fundador del Proyecto
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+El proyecto 'Overkill' fue fundado en enero del 2021 por Rodman Iñiguez, empezo como un proyecto mientras se encontraba estudiando la Universidad pero evoluciono a un juego funcional y muy divertido
 
-```markdown
-Syntax highlighted code block
+## Licencia 
 
-# Header 1
-## Header 2
-### Header 3
+La Licencia Pública General GNU es una licencia libre de copyleft para software y otros tipos de trabajos.
 
-- Bulleted
-- List
+Las licencias para la mayoría de software y otros trabajos prácticos están diseñadas para quitarle la libertad de compartir y cambiar los trabajos. Por el contrario, la Licencia Pública General GNU está destinada a garantizar su libertad para compartir y cambiar todas las versiones de un programa, para asegurarse de que siga siendo software gratuito para todos sus usuarios. Nosotros, la Free Software Foundation, usamos la Licencia Pública General GNU para la mayor parte de nuestro software; se aplica también a cualquier otro trabajo publicado de esta manera por sus autores. También puede aplicarlo a sus programas.
 
-1. Numbered
-2. List
+Cuando hablamos de software libre, nos referimos a la libertad, no al precio. Nuestras Licencias Públicas Generales están diseñadas para garantizar que tenga la libertad de distribuir copias de software gratuito (y cobrar por ellas si lo desea), que reciba el código fuente o pueda obtenerlo si lo desea, que podrá cambiar el software o utilizar partes de él en nuevos programas gratuitos, y que sepa que puede hacer estas cosas.
 
-**Bold** and _Italic_ and `Code` text
+Para proteger sus derechos, debemos evitar que otros le nieguen estos derechos o le pidan que renuncie a los derechos. Por lo tanto, tiene ciertas responsabilidades si distribuye copias del software o si lo modifica: responsabilidades de respetar la libertad de los demás....
 
-[Link](url) and ![Image](src)
-```
+Para mayor información revisar la licencia GNU en [Licencia GNU](https://opensource.org/licenses/GPL-3.0)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Descripción
 
-### Jekyll Themes
+Overkill fue diseñado con el proposito de brindar horas de diversión a los jugadores ofreciendo la oportunidad de emvilverse en compañas individuales como cooperativas
+ofreciendo todo tivo de armas, vehiculos, personajes, eventos y un mapa que cambiara en el tiempo en las actaulizaciones.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Examen-Libres/Examen-B1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
