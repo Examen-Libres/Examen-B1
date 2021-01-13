@@ -2,7 +2,7 @@
 
 ## Obetivo del Proyecto
 
-* El proyecto Overkill busca desarrollar el mejor juego de supervivencia multijugador y multiplataforma
+El proyecto Overkill busca desarrollar el mejor juego de supervivencia multijugador y multiplataforma
 
 ## Fundador del Proyecto
 
@@ -24,6 +24,11 @@ Para mayor información revisar la licencia GNU en [Licencia GNU](https://openso
 
 Overkill fue diseñado con el proposito de brindar horas de diversión a los jugadores ofreciendo la oportunidad de emvilverse en compañas individuales como cooperativas
 ofreciendo todo tivo de armas, vehiculos, personajes, eventos y un mapa que cambiara en el tiempo en las actaulizaciones.
+
+## Canal de Discord
+
+para unirte a nuestro Discord da clic [Aqui](https://discord.gg/qAfhuVV7Ah)
+
 
 
 
