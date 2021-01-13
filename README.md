@@ -29,6 +29,23 @@ ofreciendo todo tivo de armas, vehiculos, personajes, eventos y un mapa que camb
 
 para unirte a nuestro Discord da clic [Aqui](https://discord.gg/qAfhuVV7Ah)
 
+## Gestion Interna
+
+El proyecto Overkuilcontará con un grupo de desarrollo encargado de efectuar los cambios finales. Este grupo será seleccionado por el Fundador del proyecto en base a un conocimientos, para solicitar ser miembreo en viar hoja de vida al correo `xavi18rod@gmail.com` 
+
+Dentro del grupo de desarrollo podran aplicar a los siguientes roles:
+* Diseñador Grafico
+* Programador
+* Redes Sociales
+* Documentador
+* Soporte tecnico
+* Adminsitrador Discord
+* Otros
+ 
+El proyecto al ser Open Source tambien contara con aportes de la comunidad los cuales se revisaran por parios mienbros antes de llegar al grupo de desarrollo para considerarse a ser implemento, se considerará mucho el nivel de participación para tomarse en cuenta con mayor fuerza estos aportes he incluso podra ser llamada a formar parte del grupo de desarrollo.
+
+El proyecto avanzará por iteraciones las cuales se identificarán como las actualizaciones de temporada ofreciendo nuevos eventos, aditamentos y correcciones de erores
+
 
 
 
